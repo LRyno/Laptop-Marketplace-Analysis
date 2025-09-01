@@ -1,0 +1,11 @@
+selenium
+pandas
+matplotlib
+seaborn
+jupyter
+plotly
+dash
+time
+beautifulsoup4
+numpy
+path
