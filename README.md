@@ -26,6 +26,19 @@ This repository is part of my Data Analyst learning journey, showcasing end-to-e
 
 ---
 
+## ⚙️ Setup ChromeDriver
+
+This project uses **Selenium** for web scraping on Tokopedia.  
+To run it, make sure you have downloaded **chromedriver** that matches your Google Chrome version.
+
+- Check your Chrome version at `chrome://settings/help`.
+- Download chromedriver: [https://chromedriver.chromium.org/downloads](https://chromedriver.chromium.org/downloads)
+- Place `chromedriver.exe` in this project folder (or adjust the path in `scraping.py`).
+
+> Note: The `chromedriver.exe` file is **not uploaded to GitHub** due to its large size and security reasons.
+
+---
+
 ## 📊 Key Insights  
 - 💡 **Average Rating by Brand** → Microsoft, Spc, Tecno are the 3 brands with the highest ratings
 - 💡 **Average Price by Brand** → MSI is a laptop brand with the most expensive average price
