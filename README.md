@@ -45,7 +45,7 @@ To run it, make sure you have downloaded **chromedriver** that matches your Goog
 - 💡 **Brand Distribution Based on Seller Location** → Asus & Lenovo have many sellers in the Jakarta area
 - 💡 **Brand Popularity Map Based on Sales Volume per Location** → Jakarta Utara dominate laptop sellers  
 - 💡 **Brand Popularity by Price Volume** → The average buyer likes low to medium prices
-- 💡 **Popular Locations Based on Satisfaction Ratings** → The most popular and satisfying location is the Jakarta area
+- 💡 **Popular Locations Based on Satisfaction Ratings** → The most popular and satisfying location is the Jakarta
 
 ---
 
